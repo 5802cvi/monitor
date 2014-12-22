@@ -1,0 +1,838 @@
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_ChangeActiveEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_BeginDeleteEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_DeleteEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_BeginMoveEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_MoveEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_BeginRotateEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_RotateEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_BeginScaleEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_scaleEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_BeginTransformEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_TransformEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_BeginCopyEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_copyEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_BeginSymmetryEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_SymmetryEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_BeginProcessEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_EndProcessEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_CreateObjectEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_UpdateObjectEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_BeginDestroyObjectEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_DestroyObjectEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSelectionMngNotify_SelectEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSelectionMngNotify_UnselectEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSelectionMngNotify_UnselectAllEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocument2DNotify_BeginRebuildEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocument2DNotify_RebuildEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocument2DNotify_BeginChoiceMaterialEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocument2DNotify_ChoiceMaterialEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocument2DNotify_BeginInsertFragmentEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocument2DNotify_LocalFragmentEditEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocument2DNotify_BeginChoicePropertyEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocument2DNotify_ChoicePropertyEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocument3DNotify_BeginRebuildEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocument3DNotify_RebuildEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocument3DNotify_BeginChoiceMaterialEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocument3DNotify_ChoiceMaterialEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocument3DNotify_BeginChoiceMarkingEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocument3DNotify_ChoiceMarkingEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocument3DNotify_BeginSetPartFromFileEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocument3DNotify_BeginCreatePartFromFileEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject3DNotify_BeginDeleteEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject3DNotify_DeleteEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject3DNotify_excludedEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject3DNotify_hiddenEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject3DNotify_BeginPropertyChangedEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject3DNotify_PropertyChangedEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject3DNotify_BeginPlacementChangedEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject3DNotify_PlacementChangedEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject3DNotify_BeginProcessEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject3DNotify_EndProcessEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject3DNotify_CreateObjectEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject3DNotify_UpdateObjectEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcDocumentNotify_DocumentBeginAddEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcDocumentNotify_DocumentAddEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcDocumentNotify_DocumentBeginRemoveEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcDocumentNotify_DocumentRemoveEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcDocumentNotify_SpcStyleBeginChangeEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcDocumentNotify_SpcStyleChangeEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcObjectNotify_BeginDeleteEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcObjectNotify_DeleteEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcObjectNotify_CellDblClickEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcObjectNotify_CellBeginEditEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcObjectNotify_ChangeCurrentEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcObjectNotify_DocumentBeginAddEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcObjectNotify_DocumentAddEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcObjectNotify_DocumentRemoveEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcObjectNotify_BeginGeomChangeEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcObjectNotify_GeomChangeEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcObjectNotify_BeginProcessEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcObjectNotify_EndProcessEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcObjectNotify_CreateObjectEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcObjectNotify_UpdateObjectEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcObjectNotify_BeginCopyEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcObjectNotify_copyEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksKompasObjectNotify_CreateDocumentEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksKompasObjectNotify_BeginOpenDocumentEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksKompasObjectNotify_OpenDocumentEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksKompasObjectNotify_ChangeActiveDocumentEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksKompasObjectNotify_ApplicationDestroyEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksKompasObjectNotify_BeginCreateEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksKompasObjectNotify_BeginOpenFileEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksKompasObjectNotify_BeginCloseAllDocumentEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksKompasObjectNotify_KeyDownEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksKompasObjectNotify_KeyUpEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksKompasObjectNotify_KeyPressEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksKompasObjectNotify_BeginReguestFilesEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.Document2DClass: тип не содержит видимые для семейства конструкторы.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocumentFileNotify_BeginCloseDocumentEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocumentFileNotify_CloseDocumentEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocumentFileNotify_BeginSaveDocumentEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocumentFileNotify_SaveDocumentEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocumentFileNotify_ActivateEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocumentFileNotify_DeactivateEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocumentFileNotify_BeginSaveAsDocumentEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocumentFileNotify_DocumentFrameOpenEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocumentFileNotify_ProcessActivateEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocumentFileNotify_ProcessDeactivateEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocumentFileNotify_BeginProcessEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocumentFileNotify_EndProcessEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksStampNotify_BeginEditStampEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksStampNotify_EndEditStampEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksStampNotify_StampCellDblClickEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksStampNotify_StampCellBeginEditEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksStampNotify_StampBeginClearCellsEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpecificationNotify_TuningSpcStyleBeginChangeEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpecificationNotify_TuningSpcStyleChangeEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpecificationNotify_ChangeCurrentSpcDescriptionEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpecificationNotify_SpcDescriptionAddEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpecificationNotify_SpcDescriptionRemoveEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpecificationNotify_SpcDescriptionBeginEditEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpecificationNotify_SpcDescriptionEditEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpecificationNotify_SynchronizationBeginEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpecificationNotify_SynchronizationEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpecificationNotify_BeginCalcPositionsEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpecificationNotify_CalcPositionsEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpecificationNotify_BeginCreateObjectEventHandler: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.Document3DClass: тип не содержит видимые для семейства конструкторы.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSelectionMngNotify_SinkHelper: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSelectionMngNotify_EventProvider: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksStampNotify_SinkHelper: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksStampNotify_EventProvider: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpecificationNotify_SinkHelper: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpecificationNotify_EventProvider: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcDocumentNotify_SinkHelper: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcDocumentNotify_EventProvider: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcObjectNotify_SinkHelper: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksSpcObjectNotify_EventProvider: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject3DNotify_SinkHelper: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject3DNotify_EventProvider: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksKompasObjectNotify_SinkHelper: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksKompasObjectNotify_EventProvider: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocumentFileNotify_SinkHelper: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocumentFileNotify_EventProvider: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocument2DNotify_SinkHelper: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocument2DNotify_EventProvider: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_SinkHelper: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksObject2DNotify_EventProvider: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocument3DNotify_SinkHelper: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать заглушку для Kompas6API5.ksDocument3DNotify_EventProvider: тип является запечатанным.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.KompasObject: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument2D: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_Event: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_ChangeActiveEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_BeginDeleteEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_DeleteEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_BeginMoveEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_MoveEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_BeginRotateEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_RotateEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_BeginScaleEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_scaleEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_BeginTransformEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_TransformEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_BeginCopyEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_copyEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_BeginSymmetryEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_SymmetryEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_BeginProcessEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_EndProcessEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_CreateObjectEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_UpdateObjectEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_BeginDestroyObjectEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_DestroyObjectEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Object2DNotify: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSelectionMngNotify_Event: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSelectionMngNotify_SelectEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSelectionMngNotify_UnselectEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSelectionMngNotify_UnselectAllEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SelectionMngNotify: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSelectionMngNotify: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotifyResult: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument2DNotify_Event: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument2DNotify_BeginRebuildEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument2DNotify_RebuildEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument2DNotify_BeginChoiceMaterialEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument2DNotify_ChoiceMaterialEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument2DNotify_BeginInsertFragmentEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument2DNotify_LocalFragmentEditEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument2DNotify_BeginChoicePropertyEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument2DNotify_ChoicePropertyEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Document2DNotify: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument2DNotify: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument3D: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument3DNotify_Event: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument3DNotify_BeginRebuildEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument3DNotify_RebuildEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument3DNotify_BeginChoiceMaterialEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument3DNotify_ChoiceMaterialEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument3DNotify_BeginChoiceMarkingEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument3DNotify_ChoiceMarkingEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument3DNotify_BeginSetPartFromFileEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument3DNotify_BeginCreatePartFromFileEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Document3DNotify: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument3DNotify: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksEntity: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksAttribute3DCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksAttribute3D: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksFeatureCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksFeature: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksEntityCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPart: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject3DNotify_Event: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject3DNotify_BeginDeleteEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject3DNotify_DeleteEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject3DNotify_excludedEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject3DNotify_hiddenEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject3DNotify_BeginPropertyChangedEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject3DNotify_PropertyChangedEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject3DNotify_BeginPlacementChangedEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject3DNotify_PlacementChangedEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject3DNotify_BeginProcessEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject3DNotify_EndProcessEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject3DNotify_CreateObjectEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject3DNotify_UpdateObjectEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Object3DNotify: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject3DNotify: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject3DNotifyResult: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPlacement: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksComponentPositioner: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksKompasObjectNotify: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocumentFileNotify: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument3DNotifyResult: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpecRoughParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksEllipseParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksEllipseArcParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksEllipseArcParam1: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksEquidistantParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksParagraphParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksTextItemParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksTextLineParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksTextItemFont: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCornerParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksContourParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksLayerParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksLineParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksRegularPolygonParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksRectangleParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksBaseParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksLtVariant: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksUserParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksMathPointParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCurvePicture: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCurvePattern: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksTAN: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCON: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksInertiaParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksMassInertiaParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksMathematic2D: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDynamicArray: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksRDimDrawingParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksRDimSourceParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksRDimParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksLineSegParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCircleParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksArcByAngleParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksArcByPointParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPointParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksHatchParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksTextParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksNurbsPointParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDoubleValue: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksNurbsParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksConicArcParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCentreParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPlacementParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksRasterParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPolylineParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksInsertFragmentParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksViewParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksLBreakDimSource: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksBreakDimDrawing: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksLBreakDimParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksABreakDimParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksInsertFragmentParamEx: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksBezierParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksBezierPointParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDimTextParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksLDimSourceParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDimDrawingParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksLDimParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksADimSourceParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDimensionPartsParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksADimParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksRBreakDrawingParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksRBreakDimParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksQualityItemParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksQualityContensParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksIterator: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksFragment: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksFragmentLibrary: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksTechnicalDemandParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksOrdinatedSourceParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksOrdinatedDimParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksOrdinatedDrawingParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSheetSize: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksStandartSheet: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSheetPar: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocumentParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDimensionsOptions: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSnapOptions: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksLibraryStyleParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksStampNotify: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksStamp: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSheetOptions: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCurvePatternEx: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCurveStyleParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksTextStyleParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksHatchLineParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksHatchStyleParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksRectParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksShelfPar: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksRoughPar: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksRoughParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksChar255: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksLeaderParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPosLeaderParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksBrandLeaderParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksMarkerLeaderParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksType1: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksType2: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksType3: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksType5: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksType6: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPhantom: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksRequestInfo: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksViewPointerParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCutLineParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksToleranceBranch: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksToleranceParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcColumnParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksRecordTypeAttrParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksNumberTypeAttrParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcStyleColumnParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcStyleSectionParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcSubSectionParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcTuningSectionParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcTuningStyleParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcStyleParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcDescrParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocAttachedSpcParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcObjParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksLibStyle: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDataBaseObject: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcDocumentNotify: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcDocument: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcDocumentNotify_Event: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcDocumentNotify_DocumentBeginAddEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcDocumentNotify_DocumentAddEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcDocumentNotify_DocumentBeginRemoveEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcDocumentNotify_DocumentRemoveEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcDocumentNotify_SpcStyleBeginChangeEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcDocumentNotify_SpcStyleChangeEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SpcDocumentNotify: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcObjectNotify: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpecificationNotify: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpecification: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcObjectNotify_Event: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcObjectNotify_BeginDeleteEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcObjectNotify_DeleteEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcObjectNotify_CellDblClickEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcObjectNotify_CellBeginEditEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcObjectNotify_ChangeCurrentEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcObjectNotify_DocumentBeginAddEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcObjectNotify_DocumentAddEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcObjectNotify_DocumentRemoveEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcObjectNotify_BeginGeomChangeEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcObjectNotify_GeomChangeEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcObjectNotify_BeginProcessEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcObjectNotify_EndProcessEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcObjectNotify_CreateObjectEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcObjectNotify_UpdateObjectEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcObjectNotify_BeginCopyEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcObjectNotify_copyEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SpcObjectNotify: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocumentTxt: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksAttributeTypeParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksColumnInfoParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksAttributeParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksVariable: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksLibraryAttrTypeParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksAttributeObject: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksRequestInfo3D: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksMateConstraint: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDefaultObject: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksModelLibrary: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksVariableCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksMateConstraintCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPartCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksMeshPartArrayDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCircularPartArrayDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCurvePartArrayDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDerivativePartArrayDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksAxis2PlanesDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksAxisOperationsDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksAxis2PointsDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksAxisEdgeDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksMeshCopyDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCircularCopyDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCurveCopyDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksMirrorCopyDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksMirrorCopyAllDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksConicSpiralDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCylindricSpiralDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPolyLineDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPolyLineVertexParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSplineDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksBaseExtrusionDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksBossExtrusionDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCutExtrusionDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksExtrusionSurfaceDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksFaceDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksEdgeDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksChamferDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksFilletDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksBaseLoftDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksBossLoftDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCutLoftDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksLoftSurfaceDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksInclineDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksShellDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksBaseEvolutionDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksBossEvolutionDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCutEvolutionDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksEvolutionSurfaceDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksRibDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCutByPlaneDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCutBySketchDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPlaneOffsetDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPlaneAngleDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPlane3PointsDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPlaneNormalToSurfaceDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPlaneTangentToSurfaceDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPlaneEdgePointDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPlaneParallelDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPlanePerpendicularDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPlaneLineToEdgeDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPlaneLineToPlaneDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksThinParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksExtrusionParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksRotatedParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksColorParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksBaseRotatedDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksBossRotatedDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCutRotatedDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksRotatedSurfaceDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSketchDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksRasterFormatParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksAdditionFormatParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksConstraintParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksImportedSurfaceDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksFaceCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksVertexDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksTessellation: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksFacet: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksMeasurer: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksBodyCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksBody: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSurface: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksEdgeCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksOrientedEdge: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksOrientedEdgeCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksLoop: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksLoopCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCurve3D: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksLineSeg3dParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCircle3dParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksEllipse3dParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPlaneParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksConeParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCylinderParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSphereParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksTorusParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksNurbsPoint3dParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksNurbsSurfaceParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksNurbs3dParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksNurbsKnotCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksNurbsPoint3dCollCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksNurbsPoint3dCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksViewProjection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksViewProjectionCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSelectionMng: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksChooseMng: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksArc3dParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksTreeNodeParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksAssociationViewParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksViewColorParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksAxisLineParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksTextDocumentParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksRemoteElementParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDeletedCopyCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCopyObjectParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksThreadDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksOverlapObjectOptions: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObjectsFilter3D: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksParametrizationParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksMacro3DDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksAxisConefaceDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksUnionComponentsDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksMoldCavityDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksCoordinate3dCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksIntersectionResult: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksPlaneMiddleDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksControlPointDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksConjunctivePointDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksChooseBodies: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksAggregateDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksChangeLeaderParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksKompasObjectNotify_Event: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksKompasObjectNotify_CreateDocumentEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksKompasObjectNotify_BeginOpenDocumentEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksKompasObjectNotify_OpenDocumentEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksKompasObjectNotify_ChangeActiveDocumentEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksKompasObjectNotify_ApplicationDestroyEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksKompasObjectNotify_BeginCreateEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksKompasObjectNotify_BeginOpenFileEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksKompasObjectNotify_BeginCloseAllDocumentEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksKompasObjectNotify_KeyDownEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksKompasObjectNotify_KeyUpEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksKompasObjectNotify_KeyPressEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksKompasObjectNotify_BeginReguestFilesEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Application: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.KompasInvisible5: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Object2DNotifyResult: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.FeatureCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.placement: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Object3DNotifyResult: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Document3DNotifyResult: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocumentFileNotify_Event: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocumentFileNotify_BeginCloseDocumentEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocumentFileNotify_CloseDocumentEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocumentFileNotify_BeginSaveDocumentEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocumentFileNotify_SaveDocumentEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocumentFileNotify_ActivateEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocumentFileNotify_DeactivateEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocumentFileNotify_BeginSaveAsDocumentEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocumentFileNotify_DocumentFrameOpenEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocumentFileNotify_ProcessActivateEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocumentFileNotify_ProcessDeactivateEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocumentFileNotify_BeginProcessEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocumentFileNotify_EndProcessEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Document2D: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SpecRoughParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.EllipseParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.EllipseArcParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.EllipseArcParam1: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.EquidistantParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ParagraphParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.TextItemParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.TextLineParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.TextItemFont: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CornerParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ContourParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.LayerParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.LineParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.RegularPolygonParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.RectangleParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.BaseParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.LtVariant: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.UserParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.MathPointParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CurvePicture: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CurvePattern: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.TAN: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CON: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.InertiaParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.MassInertiaParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Mathematic2D: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.DynamicArray: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.RDimDrawingParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.RDimSourceParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.RDimParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.LineSegParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CircleParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ArcByAngleParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ArcByPointParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.PointParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.HatchParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.TextParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.NurbsPointParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.DoubleValue: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.NurbsParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ConicArcParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CentreParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.PlacementParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.RasterParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.PolylineParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.InsertFragmentParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ViewParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.LBreakDimSource: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.BreakDimDrawing: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.LBreakDimParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ABreakDimParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.InsertFragmentParamEx: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.BezierParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.BezierPointParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.DimTextParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.LDimSourceParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.DimDrawingParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.LDimParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ADimSourceParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.DimensionPartsParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ADimParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.RBreakDrawingParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.RBreakDimParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.QualityItemParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.QualityContensParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Iterator: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Fragment: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.FragmentLib: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.TechnicalDemandParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.OrdinatedSourceParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.OrdinatedDimParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.OrdinatedDrawingParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SheetSize: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.StandartSheet: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SheetPar: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.DocumentParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.DimensionsOptions: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SnapOptions: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.LibraryStyleParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksStampNotify_Event: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksStampNotify_BeginEditStampEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksStampNotify_EndEditStampEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksStampNotify_StampCellDblClickEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksStampNotify_StampCellBeginEditEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksStampNotify_StampBeginClearCellsEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Stamp: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SheetOptions: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CurvePatternEx: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CurveStyleParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.TextStyleParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.HatchLineParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.HatchStyleParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.RectParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ShelfPar: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.roughPar: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.RoughParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Char255: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.leaderParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.posLeaderParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.brandLeaderParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.markerLeaderParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Type1: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Type2: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Type3: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Type5: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Type6: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.phantom: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.RequestInfo: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ViewPointerParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CutLineParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ToleranceBranch: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ToleranceParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SpcColumnParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.RecordTypeAttrParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.NumberTypeAttrParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SpcStyleColumnParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SpcStyleSectionParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SpcSubSectionParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SpcTuningSectionParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SpcTuningStyleParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SpcStyleParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SpcDescrParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.DocAttachedSpcParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SpcObjParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.LibStyle: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.DataBaseObject: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SpcDocument: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpecificationNotify_Event: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpecificationNotify_TuningSpcStyleBeginChangeEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpecificationNotify_TuningSpcStyleChangeEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpecificationNotify_ChangeCurrentSpcDescriptionEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpecificationNotify_SpcDescriptionAddEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpecificationNotify_SpcDescriptionRemoveEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpecificationNotify_SpcDescriptionBeginEditEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpecificationNotify_SpcDescriptionEditEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpecificationNotify_SynchronizationBeginEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpecificationNotify_SynchronizationEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpecificationNotify_BeginCalcPositionsEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpecificationNotify_CalcPositionsEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpecificationNotify_BeginCreateObjectEventHandler: тип является делегатом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Specification: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.DocumentTxt: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.AttributeTypeParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ColumnInfoParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.AttributeParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Variable: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.LibraryAttrTypeParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.AttributeObject: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.RequestInfo3D: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.MateConstraint: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.DefaultObject: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.entity: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.part: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Document3D: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ModelLibrary: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.EntityCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.VariableCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.MateConstraintCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.PartCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.MeshPartArrayDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CircularPartArrayDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CurvePartArrayDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.DerivativePartArrayDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Axis2PlanesDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.AxisOperationsDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Axis2PointsDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.AxisEdgeDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.MeshCopyDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CircularCopyDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CurveCopyDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.MirrorCopyDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.MirrorCopyAllDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ConicSpiralDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CylindricSpiralDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.PolyLineDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SplineDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.faceDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.EdgeDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ChamferDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.FilletDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.BaseExtrusionDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.BossExtrusionDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CutExtrusionDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ExtrusionSurfaceDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.BaseLoftDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.BossLoftDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CutLoftDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.LoftSurfaceDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.InclineDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ShellDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.BaseEvolutionDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.BossEvolutionDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CutEvolutionDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.EvolutionSurfaceDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.RibDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CutByPlaneDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CutBySketchDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.PlaneOffsetDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.PlaneAngleDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Plane3PointsDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.PlaneNormalToSurfaceDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.PlaneTangentToSurfaceDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.PlaneEdgePointDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.PlaneParallelDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.PlanePerpendicularDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.PlaneLineToEdgeDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.PlaneLineToPlaneDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ThinParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ExtrusionParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.RotatedParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ColorParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.BaseRotatedDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.BossRotatedDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CutRotatedDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.RotatedSurfaceDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SketchDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.RasterFormatParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.AdditionFormatParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ConstraintParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ImportedSurfaceDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.FaceCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.VertexDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Feature: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Tessellation: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.facet: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Measurer: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.BodyCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.body: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Surface: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.EdgeCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.OrientedEdge: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.OrientedEdgeCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Loop: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.LoopCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Curve3D: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.LineSeg3dParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Circle3dParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Ellipse3dParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.PlaneParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ConeParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CylinderParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SphereParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.TorusParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.NurbsPoint3dParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.NurbsSurfaceParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Nurbs3dParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.NurbsKnotCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.NurbsPoint3dCollCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.NurbsPoint3dCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ViewProjection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ViewProjectionCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.SelectionMng: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ChooseMng: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Arc3dParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.TreeNodeParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.AssociationViewParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ViewColorParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.AxisLineParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.TextDocumentParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.RemoteElementParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.DeletedCopyCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.CopyObjectParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ThreadDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.OverlapObjectOptions: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Attribute3D: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Attribute3DCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ComponentPositioner: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ObjectsFilter3D: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ParametrizationParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Macro3DDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.AxisConefaceDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.UnionComponentsDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.MoldCavityDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.Coordinate3dCollection: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.IntersectionResult: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.PlaneMiddleDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ControlPointDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ConjunctivePointDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ChooseBodies: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.AggregateDefinition: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ChangeLeaderParam: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksChooseParts: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ChooseParts: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksBodyParts: тип является интерфейсом.
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSelectionMngNotify_EventProvider: тип невидим для exported or assembly(Kompas6API5.Fakes).
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksStampNotify_EventProvider: тип невидим для exported or assembly(Kompas6API5.Fakes).
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpecificationNotify_EventProvider: тип невидим для exported or assembly(Kompas6API5.Fakes).
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcDocumentNotify_EventProvider: тип невидим для exported or assembly(Kompas6API5.Fakes).
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksSpcObjectNotify_EventProvider: тип невидим для exported or assembly(Kompas6API5.Fakes).
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject3DNotify_EventProvider: тип невидим для exported or assembly(Kompas6API5.Fakes).
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksKompasObjectNotify_EventProvider: тип невидим для exported or assembly(Kompas6API5.Fakes).
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocumentFileNotify_EventProvider: тип невидим для exported or assembly(Kompas6API5.Fakes).
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument2DNotify_EventProvider: тип невидим для exported or assembly(Kompas6API5.Fakes).
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksObject2DNotify_EventProvider: тип невидим для exported or assembly(Kompas6API5.Fakes).
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : Невозможно создать оболочку совместимости для Kompas6API5.ksDocument3DNotify_EventProvider: тип невидим для exported or assembly(Kompas6API5.Fakes).
+C:\Users\Валера\Desktop\MonitorCreator\MonitorCreator\Fakes\Kompas6API5.fakes : warning : сбой компиляции, попытка выполнения без контрактов кода
